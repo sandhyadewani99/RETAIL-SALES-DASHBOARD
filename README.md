@@ -28,7 +28,13 @@ It helps analyze sales performance across regions, categories, and time.
 ---
 
  📷 Dashboard Preview
-(Add your screenshots here)
+
+![Dashboard](https://github.com/sandhyadewani99/RETAIL-SALES-DASHBOARD/raw/main/1%20Screenshot%202026-04-16%20142859.jpg)
+
+![Dashboard](https://github.com/sandhyadewani99/RETAIL-SALES-DASHBOARD/raw/main/2%20Screenshot%202026-04-16%20143106.jpg)
+
+![Dashboard](https://github.com/sandhyadewani99/RETAIL-SALES-DASHBOARD/raw/main/3%20Screenshot%202026-04-16%20143424.jpg)
+
 
 
 
